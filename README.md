@@ -14,9 +14,8 @@ Proyek ini adalah sistem website perusahaan (Company Profile) dinamis yang dilen
 
 <img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/3e02d0b3-1201-48ae-a0ff-7ed0135da290" />
 
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/43482428-93a2-4f1c-b36c-15e83848b978" />
 
-
-<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/07324059-57cf-4235-b58b-63534ba02b35" />
 
 
 
