@@ -12,4 +12,12 @@ Proyek ini adalah sistem website perusahaan (Company Profile) dinamis yang dilen
 *   **Inquiry System:** Sistem penawaran yang terintegrasi langsung dengan notifikasi Email (PHPMailer) dan kotak masuk (Inbox) di dashboard admin.
 
 
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/3e02d0b3-1201-48ae-a0ff-7ed0135da290" />
+
+
+
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/07324059-57cf-4235-b58b-63534ba02b35" />
+
+
+
 Links : https://adrachemical.com/
